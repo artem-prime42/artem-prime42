@@ -1,8 +1,7 @@
-# 🎮 Artem Prime
+# Artem Prime
 
 ### Creator of Dota2Skins
-
-![Profile Views](https://komarev.com/ghpvc/?username=artem-prime42&style=for-the-badge)
+### Dota 2 Mod Developer
 
 [![Website](https://img.shields.io/badge/Website-Dota2Skins-black?style=for-the-badge)](https://dota2skins.vercel.app)
 [![Telegram](https://img.shields.io/badge/Telegram-Community-blue?style=for-the-badge)](https://t.me/dota_free_skins)
