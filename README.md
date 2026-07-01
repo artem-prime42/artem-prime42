@@ -1,16 +1,23 @@
-## Hi there 👋
+🎮 Dota 2 Mod Developer
 
-<!--
-**artem-prime42/artem-prime42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Website: https://dota2skins.vercel.app
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Dota2Skins
+Free Dota 2 skins, terrain mods, cursors and visual modifications.
+
+🔗 https://dota2skins.vercel.app
+
+---
+
+## 🌍 Community
+
+Telegram:
+https://t.me/dota_free_skins
+
+Discord:
+https://discord.gg/Cb2cQhaANY
+
+YouTube:
+https://youtube.com/@papapodzaborniy
