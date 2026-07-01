@@ -1,23 +1,39 @@
-🎮 Dota 2 Mod Developer
+# 🎮 Artem Prime
 
-🌐 Website: https://dota2skins.vercel.app
+### Creator of Dota2Skins
 
-## 🚀 Projects
+![Profile Views](https://komarev.com/ghpvc/?username=artem-prime42&style=for-the-badge)
+
+[![Website](https://img.shields.io/badge/Website-Dota2Skins-black?style=for-the-badge)](https://dota2skins.vercel.app)
+[![Telegram](https://img.shields.io/badge/Telegram-Community-blue?style=for-the-badge)](https://t.me/dota_free_skins)
+[![Discord](https://img.shields.io/badge/Discord-Server-5865F2?style=for-the-badge)](https://discord.gg/Cb2cQhaANY)
+[![YouTube](https://img.shields.io/badge/YouTube-papapodzaborniy-red?style=for-the-badge)](https://youtube.com/@papapodzaborniy)
+
+---
+
+## 🚀 Main Project
 
 ### Dota2Skins
-Free Dota 2 skins, terrain mods, cursors and visual modifications.
 
-🔗 https://dota2skins.vercel.app
+Free visual modifications for Dota 2.
+
+- 🎨 Hero Skins
+- 🗡️ Item Skins
+- 🏞️ Terrain Mods
+- 🖱️ Custom Cursors
+- ✨ Visual Effects
+
+🌐 https://dota2skins.vercel.app
 
 ---
 
 ## 🌍 Community
 
-Telegram:
+💬 Telegram  
 https://t.me/dota_free_skins
 
-Discord:
+💬 Discord  
 https://discord.gg/Cb2cQhaANY
 
-YouTube:
+📺 YouTube  
 https://youtube.com/@papapodzaborniy
