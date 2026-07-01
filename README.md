@@ -10,29 +10,29 @@
 
 ---
 
-## 🚀 Main Project
+## Main Project
 
 ### Dota2Skins
 
 Free visual modifications for Dota 2.
 
-- 🎨 Hero Skins
-- 🗡️ Item Skins
-- 🏞️ Terrain Mods
-- 🖱️ Custom Cursors
-- ✨ Visual Effects
+- Hero Skins
+- Item Skins
+- Terrain Mods
+- Custom Cursors
+- Visual Effects
 
-🌐 https://dota2skins.vercel.app
+https://dota2skins.vercel.app
 
 ---
 
-## 🌍 Community
+## Community
 
-💬 Telegram  
+Telegram  
 https://t.me/dota_free_skins
 
-💬 Discord  
+Discord  
 https://discord.gg/Cb2cQhaANY
 
-📺 YouTube  
+YouTube  
 https://youtube.com/@papapodzaborniy
